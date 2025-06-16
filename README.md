@@ -1,5 +1,7 @@
 # Event Analytics System
 
+**worked by James. ttl_task_James**
+
 A Django-based analytics system for event management and ticket sales tracking.
 
 ## Project Overview
